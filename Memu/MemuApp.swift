@@ -199,13 +199,6 @@ class ChatViewModel: ObservableObject {
         - öğe 2
         - öğe 3
         
-        2. Oyun önerisi formatı:
-        Oyun önerirken şu formatı kullan:
-        oyun önerisi:
-        - [Oyun Adı]
-        Platform: [Platform]
-        Tür: [Tür]
-        [Kısa açıklama]
         
         Sohbet Geçmişi:
         \(recentMessages)
